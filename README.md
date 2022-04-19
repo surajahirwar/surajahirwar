@@ -12,6 +12,14 @@ Skills: NODE.JS / REACT / JS / HTML / CSS / EXPRESS.JS
 - 📫 How to reach me: Surajifastdigital@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/surajahirwar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj-ahirwar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/surajifastdigital)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/surajifastdigital/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/surajifastdigital)  
+[<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/github.png' alt='github' height='40'>](https://github.com/surajahirwar)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj-ahirwar/)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/facebook-logo-2019.png' alt='facebook' height='40'>](https://www.facebook.com/surajifastdigital)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/surajifastdigital/)  [<img src='https://github.com/surajahirwar/Suraj_Ahirwar/blob/main/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/surajifastdigital)  
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 
 
