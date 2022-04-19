@@ -6,7 +6,7 @@ I am **Suraj Ahirwar**. I am pursuing **Full-Stack Web Development** from Masai 
 Skills: NODE.JS / REACT / JS / HTML / CSS / EXPRESS.JS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surajahirwar)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajahirwar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 📫 How to reach me: Surajifastdigital@gmail.com 
@@ -14,11 +14,19 @@ Skills: NODE.JS / REACT / JS / HTML / CSS / EXPRESS.JS
 
 [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/github.png' alt='github' height='40'>](https://github.com/surajahirwar)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/suraj-ahirwar/)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/facebook-logo-2019.png' alt='facebook' height='40'>](https://www.facebook.com/surajifastdigital)  [<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/surajifastdigital/)  [<img src='https://github.com/surajahirwar/Suraj_Ahirwar/blob/main/twitter.png?raw=true' alt='twitter' height='40'>](https://twitter.com/surajifastdigital)  
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/Tushar504/Fw-15-Buywow-unit3-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tushar504&repo=Fw-15-Buywow-unit3-project" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/surajahirwar/Bobbi-brown-clone-frontend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajahirwar&repo=Bobbi-brown-clone-frontend" />
+</a>
+
+<a href="https://github.com/surajahirwar/shoppingweb">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajahirwar&repo=shoppingweb" />
+</a>
+
+<a href="https://github.com/surajahirwar/LibreTranslate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=surajahirwar&repo=LibreTranslate" />
 </a>
 
 
