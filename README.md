@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Suraj Ahirwar
-[<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/Black%20and%20Blue%20Simple%20Developer%20Business%20Card-modified2.png' width="240">]
+[<img src='https://raw.githubusercontent.com/surajahirwar/Suraj_Ahirwar/main/Black%20and%20Blue%20Simple%20Developer%20Business%20Card-modified2.png'>]
 
 I am **Suraj Ahirwar**. I am pursuing **Full-Stack Web Development** from Masai School-Bengaluru along with pursuing my BCA **Bachelor of computer applications** from Indira Gandhi National Open University (IGNOU). slowly with time, my interest in the IT field started increasing, so one day I thought of giving a try on coding and my interest in coding started building up, and luckily got Admission to Masai school and pursued a full-stack web development course(MERN)
 
